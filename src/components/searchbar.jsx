@@ -9,7 +9,7 @@ export default class Searchbar extends Component {
           type="search"
           id="search-bar"
           maxLength={40}
-          placeholder="Your mum's a cunt!"
+          placeholder="Search Placeholder"
         />
       </div>
     );
